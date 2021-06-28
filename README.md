@@ -6,4 +6,5 @@ To optimize CGOL, I used an unsigned char to store whether or not the cell was a
 
 ## Project Showcase
 ![Project](/photos/cgol.gif)
+
 This is how the game looks like with 50% of the board preset.
